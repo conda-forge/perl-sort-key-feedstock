@@ -197,4 +197,5 @@ Feedstock Maintainers
 =====================
 
 * [@cbrueffer](https://github.com/cbrueffer/)
+* [@conda-forge/perl-packagers](https://github.com/orgs/conda-forge/teams/perl-packagers/)
 
